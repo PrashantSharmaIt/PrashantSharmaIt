@@ -31,10 +31,10 @@ Here are some of the technologies I work with:
   - <img src="https://img.icons8.com/color/96/000000/nodejs.png" alt="Node.js" width="60"/> <img src="https://img.icons8.com/color/96/000000/express.png" alt="Express.js" width="60"/>
   
  - Databases:  
-  - <img src="https://img.icons8.com/color/96/000000/mongodb.png" alt="MongoDB" width="60"/> 
-  <img src="https://img.icons8.com/ios-filled/100/000000/mysql-logo.png" alt="MySQL" width="60"/> 
-  <img src="https://img.icons8.com/color/96/000000/postgreesql.png" alt="PostgreSQL" width="60"/>
+  - <img src="https://img.icons8.com/color/96/000000/mongodb.png" alt="MongoDB" width="60"/> <img src="https://img.icons8.com/ios-filled/100/000000/mysql-logo.png" alt="MySQL" width="60"/>  <img src="https://img.icons8.com/color/96/000000/postgreesql.png" alt="PostgreSQL" width="60"/>
+ 
 
+  
 
 - Tools: 
   - <img src="https://img.icons8.com/fluent/96/000000/figma.png" alt="Figma" width="60"/> <img src="https://img.icons8.com/color/96/000000/canva.png" alt="Canva" width="60"/> <img src="https://img.icons8.com/color/96/000000/git.png" alt="Git" width="60"/> <img src="https://img.icons8.com/ios-filled/100/000000/github.png" alt="GitHub" width="60"/>
