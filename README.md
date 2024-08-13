@@ -1,4 +1,4 @@
-![Hey! I am Prashant](https://github.com/AstikSharma/AstikSharma/assets/132981717/efeb2b4b-f6d5-4506-97cf-56714f5e5c75)
+
 
 <div align="center">
   
