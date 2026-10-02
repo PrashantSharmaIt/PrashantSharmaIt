@@ -4,7 +4,7 @@
   
 <h1>Hello, I'm Prashant! 👋</h1>
 
-<h3>I'm a Product Manager & Full Stack Developer based at ABV-IIITM Gwalior. I'm passionate about bridging the gap between engineering and business to build data-driven, user-centric products.</h3>
+<h3>I'm a Product Manager, Full Stack Developer and Data Analyst based at ABV-IIITM Gwalior. I'm passionate about bridging the gap between engineering and business to build data-driven, user-centric products.</h3>
 
 </div>
 
