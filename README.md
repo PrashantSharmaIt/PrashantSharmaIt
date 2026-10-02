@@ -4,18 +4,17 @@
   
 <h1>Hello, I'm Prashant! 👋</h1>
 
-<h3>I'm a FULL stack developer based in IIIT Gwalior. I'm passionate about DSA, and I love building cool stuff with code.</h3>
+<h3>I'm a Product Manager & Full Stack Developer based at ABV-IIITM Gwalior. I'm passionate about bridging the gap between engineering and business to build data-driven, user-centric products.</h3>
 
 </div>
 
 ## About Me ℹ
-
-- 🌱 I’m currently learning Data Structure and Algorithm
-- 💞 I’m looking to collaborate on FULL Stack projects
-- 💬 Ask me about FULL Stack, DSA
+- 🌱 I’m currently learning Product Strategy, Advanced Data Analytics, and Data Structures & Algorithms.
+- 💞 I’m looking to collaborate on Product-Led Growth (PLG) initiatives, Business Intelligence dashboards, and Full Stack projects.
+- 💬 Ask me about Product Management, Agile Workflows, Power BI, SQL, and Full Stack Architecture.
 - 📫 How to reach me: [sharmaprashant5771@gmail.com](mailto:sharmaprashant5771@gmail.com)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I am a budding engineer who lifts weights 
+- ⚡ Fun fact: I am a budding product engineer who lifts weights 🏋️‍♂️
 
 ## My Tech Stack 💻
 
