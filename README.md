@@ -107,10 +107,35 @@ I've worked with teams across **Canada, the US, and India** as a PM and Product-
 | 👥 **HR Analytics Dashboard** | Interactive dashboard tracking attrition, salary trends and demographics, with 20+ DAX measures | `Power BI` `DAX` |
 | 🚖 **Uber Ride Analytics Dashboard** | Peak-hour trends, fleet performance and payment insights across 10,000+ rides | `Power BI` `DAX` |
 | 🛒 **Online Store Sales Dashboard** | Revenue, profit and customer behavior across 1,500+ transactions | `Power BI` `SQL` `DAX` |
+| 🏥 **MediLink: Hospital Management System** | Full stack hospital platform with doctor, patient and staff dashboards, appointment booking, report generation and JWT auth | `React` `MongoDB` `JavaScript` `Redux` |
 
 <!-- Add your full stack projects here, e.g.
 | 🌐 **Project Name** | One-line description | `React` `Node.js` |
 -->
+
+### 💻 Full Stack Project: MediLink
+
+<div align="center">
+
+<a href="https://github.com/PrashantSharmalt/hospital-management-system">
+  <img src="./assets/medilink-repo.png" alt="MediLink Hospital Management System repository" width="90%" />
+</a>
+
+</div>
+
+**MediLink** is a hospital management system that lets hospitals manage doctors, patients and staff in one place.
+
+- 3 detailed dashboards for **doctor, patient and staff**
+- **Appointment booking** with doctors, plus **search** for doctors, patients and staff
+- **Patient report generation** by doctors, and **medicine inventory** management by staff
+- **Bcrypt** password hashing with **JWT** authentication, and **Redux** for state management
+
+`React` `Redux` `MongoDB` `JavaScript` `HTML` `CSS` `Render`
+
+[![Repository](https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PrashantSharmalt/hospital-management-system)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-46E3B7?style=for-the-badge&logo=render&logoColor=black)](https://hospital-management-system-5rfq.onrender.com/)
+
+> 👉 Pin your 6 best repos on your profile. Put one from each area: Product, Data, and Full Stack.
 
 ---
 
