@@ -8,10 +8,10 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-Say%20Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharmaprashant5771@gmail.com)
-[![Product Portfolio](https://img.shields.io/badge/Product-Portfolio-6C47FF?style=for-the-badge&logo=notion&logoColor=white)](YOUR_PRODUCT_PORTFOLIO_URL)
-[![Data Portfolio](https://img.shields.io/badge/Data%20%26%20Analytics-Portfolio-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](YOUR_DATA_PORTFOLIO_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Prashant%20Sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashantsharma048/)
+[![Gmail](https://img.shields.io/badge/Gmail-sharmaprashant5771%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharmaprashant5771@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Product-Portfolio-6C47FF?style=for-the-badge&logo=notion&logoColor=white)](https://app.notion.com/p/Prashant-Sharma-2fe4e5898130803884ccf5ac2e96303c)
+
 
 </div>
 
@@ -74,13 +74,26 @@ I've worked with teams across **Canada, the US, and India** as a PM and Product-
 
 <div align="center">
 
-<!-- ⬇️ PASTE YOUR EXISTING FULL STACK ICON LINE HERE IF YOU WANT TO KEEP IT, then use the ones below -->
+<!-- Apne purane full stack badges yahan add kar sakte ho -->
 
-<img src="https://skillicons.dev/icons?i=python,mysql,mongodb,aws,supabase,git,github,figma,jira,powerbi,excel,notion,postman&perline=7" />
-
-<br/><br/>
-
-**Also:** PySpark · Google BigQuery · Mixpanel · n8n · Plane · Framer
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=googlesheets&logoColor=white)
+![Mixpanel](https://img.shields.io/badge/Mixpanel-7856FF?style=for-the-badge&logo=mixpanel&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 </div>
 
@@ -137,7 +150,7 @@ I've worked with teams across **Canada, the US, and India** as a PM and Product-
 
 ### 📫 Let's connect
 
-**sharmaprashant5771@gmail.com** · **+91 78794 59030**
+[sharmaprashant5771@gmail.com](mailto:sharmaprashant5771@gmail.com) · [LinkedIn](https://www.linkedin.com/in/prashantsharma048/) · +91 78794 59030
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%" />
 
