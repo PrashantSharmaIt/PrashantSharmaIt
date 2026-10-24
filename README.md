@@ -24,7 +24,6 @@ I'm a **product-minded technologist** in the final stretch of my **B.Tech (IT) +
 |---|---|---|
 | Write PRDs, map workflows, prioritize backlogs, and run agile sprints | Build Power BI dashboards, write SQL and DAX, and find insights in the noise | Build and ship working products, and speak the language of engineers |
 
-I've worked with teams across **Canada, the US, and India** as a PM and Product-Led Growth intern, so I'm comfortable with remote, cross-functional collaboration.
 
 > 💡 *My edge: I can define the product, measure whether it works, and build it myself if needed.*
 
