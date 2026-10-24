@@ -1,47 +1,144 @@
-
+<!-- ============ HEADER BANNER ============ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Prashant%20Sharma&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Product%20Manager%20%7C%20Data%20Analyst%20%7C%20Full%20Stack%20Builder&descSize=18&descAlignY=60" width="100%" />
 
 <div align="center">
-  
-<h1>Hello, I'm Prashant! 👋</h1>
 
-<h3>I'm a Product Manager, Full Stack Developer and Data Analyst based at ABV-IIITM Gwalior. I'm passionate about bridging the gap between engineering and business to build data-driven, user-centric products.</h3>
+<!-- Typing animation -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=2C9CF0&center=true&vCenter=true&width=700&lines=Turning+user+problems+into+shipped+products;Turning+raw+data+into+decisions;Building+end-to-end%3A+idea+%E2%86%92+PRD+%E2%86%92+dashboard+%E2%86%92+code;IIITM+Gwalior+%7C+B.Tech+IT+%2B+MBA+(IPG)" alt="Typing SVG" /></a>
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Email](https://img.shields.io/badge/Email-Say%20Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharmaprashant5771@gmail.com)
+[![Product Portfolio](https://img.shields.io/badge/Product-Portfolio-6C47FF?style=for-the-badge&logo=notion&logoColor=white)](YOUR_PRODUCT_PORTFOLIO_URL)
+[![Data Portfolio](https://img.shields.io/badge/Data%20%26%20Analytics-Portfolio-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](YOUR_DATA_PORTFOLIO_URL)
 
 </div>
 
-## About Me ℹ
-- 🌱 I’m currently learning Product Strategy, Advanced Data Analytics, and Data Structures & Algorithms.
-- 💞 I’m looking to collaborate on Product-Led Growth (PLG) initiatives, Business Intelligence dashboards, and Full Stack projects.
-- 💬 Ask me about Product Management, Agile Workflows, Power BI, SQL, and Full Stack Architecture.
-- 📫 How to reach me: [sharmaprashant5771@gmail.com](mailto:sharmaprashant5771@gmail.com)
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I am a budding product engineer who lifts weights 🏋️‍♂️
+---
 
-## My Tech Stack 💻
+## 👋 About Me
 
-Here are some of the technologies I work with:
+I'm a **product-minded technologist** in the final stretch of my **B.Tech (IT) + MBA integrated program at ABV-IIITM Gwalior** (CGPA 8.05, graduating 2027). I sit at the intersection of three worlds:
 
-- Programming Languages: 
-  - <img src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png" alt="C++" width="60"/> <img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo.png" alt="Java" width="60"/> <img src="https://img.icons8.com/color/96/000000/python.png" alt="Python" width="60"/> <img src="https://img.icons8.com/color/96/000000/javascript.png" alt="JavaScript" width="60"/> 
+| 🧭 Product Management | 📊 Data & Analytics | 💻 Full Stack Development |
+|---|---|---|
+| Write PRDs, map workflows, prioritize backlogs, and run agile sprints | Build Power BI dashboards, write SQL and DAX, and find insights in the noise | Build and ship working products, and speak the language of engineers |
 
-- Frontend: 
-  - <img src="https://img.icons8.com/color/96/000000/react-native.png" alt="React.js" width="60"/> <img src="https://img.icons8.com/color/96/000000/material-ui.png" alt="Material UI" width="60"/> <img src="https://courses.javacodegeeks.com/wp-content/uploads/2021/02/3542736_21cf-768x430.jpg" alt="Tailwind CSS" width="60"/> <img src="https://img.icons8.com/color/96/000000/bootstrap.png" alt="Bootstrap" width="60"/> <img src="https://img.icons8.com/color/96/000000/html-5.png" alt="HTML5" width="60"/> <img src="https://img.icons8.com/color/96/000000/css3.png" alt="CSS3" width="60"/>
-    
-- Backend: 
-  - <img src="https://img.icons8.com/color/96/000000/nodejs.png" alt="Node.js" width="60"/> <img src="https://img.icons8.com/color/96/000000/express.png" alt="Express.js" width="60"/>
-  
- - Databases:  
-  - <img src="https://img.icons8.com/color/96/000000/mongodb.png" alt="MongoDB" width="60"/> <img src="https://img.icons8.com/ios-filled/100/000000/mysql-logo.png" alt="MySQL" width="60"/>  <img src="https://img.icons8.com/color/96/000000/postgreesql.png" alt="PostgreSQL" width="60"/>
- 
+I've worked with teams across **Canada, the US, and India** as a PM and Product-Led Growth intern, so I'm comfortable with remote, cross-functional collaboration.
 
-  
+> 💡 *My edge: I can define the product, measure whether it works, and build it myself if needed.*
 
-- Tools: 
-  - <img src="https://img.icons8.com/fluent/96/000000/figma.png" alt="Figma" width="60"/> <img src="https://img.icons8.com/color/96/000000/canva.png" alt="Canva" width="60"/> <img src="https://img.icons8.com/color/96/000000/git.png" alt="Git" width="60"/> <img src="https://img.icons8.com/ios-filled/100/000000/github.png" alt="GitHub" width="60"/>
+---
 
+## 🚀 What I've Done
 
-## Let's Connect 🤝
+### 🧭 Product Management
+- **StepsAI (Canada, Remote)**: Ran 2-week agile sprints with 100+ user stories for a 6-member dev team, set up a self-hosted **Plane** instance after evaluating 5+ PM tools, and resolved 40+ critical bugs during staging QA.
+- **Netlarx (Gwalior)**: Authored **3 PRDs**, mapped **15+ workflows** for a vendor portal, benchmarked 5+ competitors, and prioritized a backlog of 20+ features.
+- **Layerpath (Texas, Remote)**: Built **100+ SEO landing pages**, which drove a **2x increase in organic traffic**, and grew CTR by 18%. A YouTube series I led generated **50+ organic sign-ups**.
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/prashantsharma048/)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)](https://github.com/PrashantSharmaIt)
+### 📊 Data & Analytics
+- Built Power BI dashboards on **HR (1,470+ records)**, **Uber rides (10,000+ records)** and **Online Store sales (1,500+ transactions)**.
+- Wrote **20+ custom DAX measures**, with drill-through, dynamic slicers, and geospatial analysis (5 high-demand zones identified).
+- Cut estimated manual HR reporting time by **~30%**.
 
-Feel free to reach out if you'd like to collaborate on a project, have any questions, or just want to say hi! 😊
+### 💻 Full Stack & Tools
+- Built across **Python, SQL, MySQL, MongoDB, REST APIs, Supabase, n8n workflows, and AWS**.
+- Comfortable with Git/GitHub workflows, JIRA, and Agile/Scrum delivery.
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+### Product Management
+![PRD](https://img.shields.io/badge/PRD%20Writing-6C47FF?style=flat-square)
+![Roadmap](https://img.shields.io/badge/Product%20Roadmap-6C47FF?style=flat-square)
+![RICE](https://img.shields.io/badge/RICE%20%2F%20MoSCoW-6C47FF?style=flat-square)
+![Stories](https://img.shields.io/badge/User%20Stories-6C47FF?style=flat-square)
+![Research](https://img.shields.io/badge/Market%20Research-6C47FF?style=flat-square)
+![Journey](https://img.shields.io/badge/User%20Journey%20Mapping-6C47FF?style=flat-square)
+![AB](https://img.shields.io/badge/A%2FB%20Testing-6C47FF?style=flat-square)
+![GTM](https://img.shields.io/badge/Go--To--Market-6C47FF?style=flat-square)
+![Agile](https://img.shields.io/badge/Agile%20%2F%20Scrum-6C47FF?style=flat-square)
+
+### Data & Analytics
+![SQL](https://img.shields.io/badge/SQL-F2C811?style=flat-square&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat-square&logoColor=black)
+![Pivot](https://img.shields.io/badge/Excel%20Pivot%20Tables-F2C811?style=flat-square&logoColor=black)
+![ETL](https://img.shields.io/badge/ETL%20%26%20Data%20Pipelines-F2C811?style=flat-square&logoColor=black)
+![Predictive](https://img.shields.io/badge/Predictive%20Modeling-F2C811?style=flat-square&logoColor=black)
+![Product Analytics](https://img.shields.io/badge/Product%20Analytics-F2C811?style=flat-square&logoColor=black)
+
+### Tools I Work With
+
+<div align="center">
+
+<!-- ⬇️ PASTE YOUR EXISTING FULL STACK ICON LINE HERE IF YOU WANT TO KEEP IT, then use the ones below -->
+
+<img src="https://skillicons.dev/icons?i=python,mysql,mongodb,aws,supabase,git,github,figma,jira,powerbi,excel,notion,postman&perline=7" />
+
+<br/><br/>
+
+**Also:** PySpark · Google BigQuery · Mixpanel · n8n · Plane · Framer
+
+</div>
+
+---
+
+## 📂 Featured Projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| 📋 **FaceDetect 360 (PRD)** | 15+ page PRD for an AI facial recognition platform. Offline-first, multilingual architecture, 3 North Star metrics, 10+ KPIs, 4-phase rollout | `Product Strategy` `UX/UI` |
+| 🏍️ **Rapido Ride Cancellations (PM Case Study)** | Diagnosed a 15% peak-hour cancellation spike in Tier-2 cities and proposed a "Priority Ride" feature using an Impact vs. Effort matrix | `Root Cause Analysis` `Product Strategy` |
+| 🧸 **E-Marketplace for Kids** | 3-phase GTM for a $3.0B niche market with a B2B2C school integration strategy and competitor analysis (FirstCry, Amazon, Hamleys) | `Market Research` `GTM` |
+| 👥 **HR Analytics Dashboard** | Interactive dashboard tracking attrition, salary trends and demographics, with 20+ DAX measures | `Power BI` `DAX` |
+| 🚖 **Uber Ride Analytics Dashboard** | Peak-hour trends, fleet performance and payment insights across 10,000+ rides | `Power BI` `DAX` |
+| 🛒 **Online Store Sales Dashboard** | Revenue, profit and customer behavior across 1,500+ transactions | `Power BI` `SQL` `DAX` |
+
+<!-- Add your full stack projects here, e.g.
+| 🌐 **Project Name** | One-line description | `React` `Node.js` |
+-->
+
+> 👉 Pin your 6 best repos on your profile. Put one from each area: Product, Data, and Full Stack.
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🏆 Beyond Work
+
+- 🎯 **JEE Main**: Top 1.5% nationally among 900,000+ candidates
+- 🎓 **Core Team, Convocation**: Ran operations for the Presidential convocation (1,000+ attendees)
+- 🤝 **Event Coordinator, Aurora**: Mentorship event with 200+ participants
+- 🏛️ **Executive Member, Student Activity Council**: 5+ welfare initiatives reaching 800+ students
+
+---
+
+## 🎯 Currently
+
+- 🔭 Looking for **Product Management** and **Product / Data Analyst** roles, and open to internships and full-time opportunities
+- 🌱 Sharpening my skills in product analytics, SQL, and building with AI and automation (n8n, Supabase)
+- 💬 Ask me about: PRDs, prioritization frameworks, Power BI, or breaking into PM from a tech background
+
+<div align="center">
+
+### 📫 Let's connect
+
+**sharmaprashant5771@gmail.com** · **+91 78794 59030**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%" />
+
+</div>
