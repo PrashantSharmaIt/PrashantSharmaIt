@@ -10,8 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Prashant%20Sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashantsharma048/)
 [![Gmail](https://img.shields.io/badge/Gmail-Say%20Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharmaprashant5771@gmail.com)
-[![Product Portfolio](https://img.shields.io/badge/Product-Portfolio-6C47FF?style=for-the-badge&logo=notion&logoColor=white)](YOUR_PRODUCT_PORTFOLIO_URL)
-[![Data Portfolio](https://img.shields.io/badge/Data%20%26%20Analytics-Portfolio-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](YOUR_DATA_PORTFOLIO_URL)
+[![Product Portfolio](https://img.shields.io/badge/Product-Portfolio-6C47FF?style=for-the-badge&logo=notion&logoColor=white)](https://app.notion.com/p/Prashant-Sharma-2fe4e5898130803884ccf5ac2e96303c)
 
 </div>
 
