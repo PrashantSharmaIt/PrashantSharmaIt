@@ -156,5 +156,5 @@ I've worked with teams across **Canada, the US, and India** as a PM and Product-
 [Say Hi](mailto:sharmaprashant5771@gmail.com) · [LinkedIn](https://www.linkedin.com/in/prashantsharma048/) · +91 78794 59030
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%" />
-
+<sub>Made with ❤️ by Prashant</sub>
 </div>
