@@ -9,9 +9,9 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Prashant%20Sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashantsharma048/)
-[![Gmail](https://img.shields.io/badge/Gmail-Say-Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharmaprashant5771@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Product-Portfolio-6C47FF?style=for-the-badge&logo=notion&logoColor=white)](https://app.notion.com/p/Prashant-Sharma-2fe4e5898130803884ccf5ac2e96303c)
-
+[![Gmail](https://img.shields.io/badge/Gmail-Say%20Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharmaprashant5771@gmail.com)
+[![Product Portfolio](https://img.shields.io/badge/Product-Portfolio-6C47FF?style=for-the-badge&logo=notion&logoColor=white)](YOUR_PRODUCT_PORTFOLIO_URL)
+[![Data Portfolio](https://img.shields.io/badge/Data%20%26%20Analytics-Portfolio-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](YOUR_DATA_PORTFOLIO_URL)
 
 </div>
 
@@ -44,7 +44,7 @@ I've worked with teams across **Canada, the US, and India** as a PM and Product-
 - Cut estimated manual HR reporting time by **~30%**.
 
 ### 💻 Full Stack & Tools
-- Built across **Python, SQL, MySQL, MongoDB, REST APIs, Supabase, n8n workflows, and AWS**.
+- Built across **Python, SQL, MySQL, MongoDB, REST APIs, n8n workflows, and AWS**.
 - Comfortable with Git/GitHub workflows, JIRA, and Agile/Scrum delivery.
 
 ---
@@ -81,7 +81,6 @@ I've worked with teams across **Canada, the US, and India** as a PM and Product-
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -114,21 +113,6 @@ I've worked with teams across **Canada, the US, and India** as a PM and Product-
 | 🌐 **Project Name** | One-line description | `React` `Node.js` |
 -->
 
-> 👉 Pin your 6 best repos on your profile. Put one from each area: Product, Data, and Full Stack.
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
-
-</div>
-
 ---
 
 ## 🏆 Beyond Work
@@ -143,14 +127,14 @@ I've worked with teams across **Canada, the US, and India** as a PM and Product-
 ## 🎯 Currently
 
 - 🔭 Looking for **Product Management** and **Product / Data Analyst** roles, and open to internships and full-time opportunities
-- 🌱 Sharpening my skills in product analytics, SQL, and building with AI and automation (n8n, Supabase)
+- 🌱 Sharpening my skills in product analytics, SQL, and building with AI and automation (n8n)
 - 💬 Ask me about: PRDs, prioritization frameworks, Power BI, or breaking into PM from a tech background
 
 <div align="center">
 
 ### 📫 Let's connect
 
-[sharmaprashant5771@gmail.com](mailto:sharmaprashant5771@gmail.com) · [LinkedIn](https://www.linkedin.com/in/prashantsharma048/) · +91 78794 59030
+[Say Hi](mailto:sharmaprashant5771@gmail.com) · [LinkedIn](https://www.linkedin.com/in/prashantsharma048/) · +91 78794 59030
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%" />
 
