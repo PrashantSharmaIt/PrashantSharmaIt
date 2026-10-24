@@ -9,7 +9,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Prashant%20Sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashantsharma048/)
-[![Gmail](https://img.shields.io/badge/Gmail-SayHi%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharmaprashant5771@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-Say-Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharmaprashant5771@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Product-Portfolio-6C47FF?style=for-the-badge&logo=notion&logoColor=white)](https://app.notion.com/p/Prashant-Sharma-2fe4e5898130803884ccf5ac2e96303c)
 
 
