@@ -109,17 +109,12 @@ I've worked with teams across **Canada, the US, and India** as a PM and Product-
 | 🛒 **Online Store Sales Dashboard** | Revenue, profit and customer behavior across 1,500+ transactions | `Power BI` `SQL` `DAX` |
 | 🏥 **MediLink: Hospital Management System** | Full stack hospital platform with doctor, patient and staff dashboards, appointment booking, report generation and JWT auth | `React` `MongoDB` `JavaScript` `Redux` |
 
-<!-- Add your full stack projects here, e.g.
-| 🌐 **Project Name** | One-line description | `React` `Node.js` |
--->
 
 ### 💻 Full Stack Project: MediLink
 
 <div align="center">
 
-<a href="https://github.com/PrashantSharmalt/hospital-management-system">
-  <img src="./assets/medilink-repo.png" alt="MediLink Hospital Management System repository" width="90%" />
-</a>
+
 
 </div>
 
