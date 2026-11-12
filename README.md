@@ -129,7 +129,26 @@ I'm a **product-minded technologist** in the final stretch of my **B.Tech (IT) +
 [![Repository](https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PrashantSharmalt/hospital-management-system)
 [![Live Demo](https://img.shields.io/badge/Live-Demo-46E3B7?style=for-the-badge&logo=render&logoColor=black)](https://hospital-management-system-5rfq.onrender.com/)
 
-> 👉 Pin your 6 best repos on your profile. Put one from each area: Product, Data, and Full Stack.
+
+---
+
+## 📌 Featured GitHub Repositories
+
+### 🧭 Product Management
+[![FaceDetect 360](https://github-readme-stats.vercel.app/api/pin/?username=PrashantSharmalt&repo=YOUR_PRODUCT_REPO&theme=tokyonight)](https://github.com/PrashantSharmalt/YOUR_PRODUCT_REPO)
+
+[![Rapido Case Study](https://github-readme-stats.vercel.app/api/pin/?username=PrashantSharmalt&repo=YOUR_SECOND_PRODUCT_REPO&theme=tokyonight)](https://github.com/PrashantSharmalt/YOUR_SECOND_PRODUCT_REPO)
+
+### 📊 Data & Analytics
+[![HR Analytics](https://github-readme-stats.vercel.app/api/pin/?username=PrashantSharmalt&repo=YOUR_HR_REPO&theme=tokyonight)](https://github.com/PrashantSharmalt/YOUR_HR_REPO)
+
+[![Uber Analytics](https://github-readme-stats.vercel.app/api/pin/?username=PrashantSharmalt&repo=YOUR_UBER_REPO&theme=tokyonight)](https://github.com/PrashantSharmalt/YOUR_UBER_REPO)
+
+### 💻 Full Stack Development
+[![MediLink](https://github-readme-stats.vercel.app/api/pin/?username=PrashantSharmalt&repo=hospital-management-system&theme=tokyonight)](https://github.com/PrashantSharmalt/hospital-management-system)
+
+[![Full Stack Project](https://github-readme-stats.vercel.app/api/pin/?username=PrashantSharmalt&repo=YOUR_FULLSTACK_REPO&theme=tokyonight)](https://github.com/PrashantSharmalt/YOUR_FULLSTACK_REPO)
+
 
 ---
 
