@@ -135,19 +135,18 @@ I'm a **product-minded technologist** in the final stretch of my **B.Tech (IT) +
 ## 📌 Featured GitHub Repositories
 
 ### 🧭 Product Management
-[![FaceDetect 360](https://github-readme-stats.vercel.app/api/pin/?username=PrashantSharmalt&repo=YOUR_PRODUCT_REPO&theme=tokyonight)](https://github.com/PrashantSharmalt/YOUR_PRODUCT_REPO)
+[![FaceDetect 360](https://github-readme-stats.vercel.app/api/pin/?username=PrashantSharmalt&repo=YOUR_PRODUCT_REPO&theme=tokyonight)](https://app.notion.com/p/FaceDetect360-Product-Requirement-Document-PRD-2fe4e58981308044af25efca7e2fd8b7?source=copy_link)
 
-[![Rapido Case Study](https://github-readme-stats.vercel.app/api/pin/?username=PrashantSharmalt&repo=YOUR_SECOND_PRODUCT_REPO&theme=tokyonight)](https://github.com/PrashantSharmalt/YOUR_SECOND_PRODUCT_REPO)
+[![Rapido Case Study](https://github-readme-stats.vercel.app/api/pin/?username=PrashantSharmalt&repo=YOUR_SECOND_PRODUCT_REPO&theme=tokyonight)](https://app.notion.com/p/Case-Study-Decoding-the-Rise-in-Rapido-s-Ride-Cancellations-2fe4e58981308089827cef4bceaafda7?source=copy_link)
 
 ### 📊 Data & Analytics
-[![HR Analytics](https://github-readme-stats.vercel.app/api/pin/?username=PrashantSharmalt&repo=YOUR_HR_REPO&theme=tokyonight)](https://github.com/PrashantSharmalt/YOUR_HR_REPO)
+[![HR Analytics](https://github-readme-stats.vercel.app/api/pin/?username=PrashantSharmalt&repo=YOUR_HR_REPO&theme=tokyonight)](https://github.com/PrashantSharmaIt/HR-Employee-Retention-Analytics)
 
-[![Uber Analytics](https://github-readme-stats.vercel.app/api/pin/?username=PrashantSharmalt&repo=YOUR_UBER_REPO&theme=tokyonight)](https://github.com/PrashantSharmalt/YOUR_UBER_REPO)
+[![Uber Analytics](https://github-readme-stats.vercel.app/api/pin/?username=PrashantSharmalt&repo=YOUR_UBER_REPO&theme=tokyonight)](https://github.com/PrashantSharmaIt/Uber-Operations-Analytics)
 
 ### 💻 Full Stack Development
 [![MediLink](https://github-readme-stats.vercel.app/api/pin/?username=PrashantSharmalt&repo=hospital-management-system&theme=tokyonight)](https://github.com/PrashantSharmalt/hospital-management-system)
 
-[![Full Stack Project](https://github-readme-stats.vercel.app/api/pin/?username=PrashantSharmalt&repo=YOUR_FULLSTACK_REPO&theme=tokyonight)](https://github.com/PrashantSharmalt/YOUR_FULLSTACK_REPO)
 
 
 ---
